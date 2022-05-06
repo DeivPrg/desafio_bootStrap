@@ -85,9 +85,19 @@ a:hover {
 
 .seccion-mejor_guitarra{
     width: 100%;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     height: 600px;
 
+}
+
+/* Seccion nuevos modelos */
+.seccion-nuevos-modelos{
+    background-color: black;
+    width: 100%;
+}
+
+.nuevos-modelos-container{
+    margin: 80px 80px;
 }
 
 /* Seccion Mejor Guitarra */
